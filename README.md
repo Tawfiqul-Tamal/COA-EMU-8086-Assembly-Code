@@ -1,4 +1,4 @@
-# COA 8086 Assembly Language Lab
+# COA 8086 Assembly Language
 
 ## About
 This repository contains my COA (Computer Organization and Architecture) / 8086 Assembly
